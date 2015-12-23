@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="away_team_name_text">"Away team's name is: "</string>
+    <string name="match_day_is_text">"Match day is "</string>
+    <string name="match_league_is_text">"Match League is "</string>
+    <string name="share_match_scores_text">Share Match Scores</string>
+</resources>
