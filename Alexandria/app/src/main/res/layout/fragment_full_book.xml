@@ -89,6 +89,9 @@
                         android:gravity="right|top"/>
                 </LinearLayout>
 
+                <!-- Removed as per Android guidelines:
+                http://developer.android.com/design/patterns/navigation.html
+
                 <ImageButton
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -101,6 +104,7 @@
                     android:layout_alignParentTop="true"
                     android:layout_alignRight="@+id/fullBookTitle"
                     android:layout_alignEnd="@+id/fullBookTitle"/>
+                    -->
 
 
             </RelativeLayout>
